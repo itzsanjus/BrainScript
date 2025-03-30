@@ -12,6 +12,9 @@ BrainScript contains various notebooks covering:
 
 ## 📂 Contains
 - **RAG_End_To_End**: Jupyter notebooks for end to end RAG application building.
+- **AI_Resume_Bot**: Jupyter notebooks for AI based Resume checker bot application.
+- **Fine_Tuning_Mode**: Jupyter notebooks for Date Preprocessing, Model fine Tuning of HuggingFace Models.
+
 
 
 ## 💡 Contributions
